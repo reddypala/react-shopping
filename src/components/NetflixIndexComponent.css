@@ -1,0 +1,15 @@
+.container-fluid{
+    background-image: url("../../public/Images/netflixbackground.jpg");
+    background-size: contain;
+    
+    height: 100vmax;
+    color: white;
+}
+.box{
+    background-color: rgba(0,0,0,0.6);
+    width: 100vmax;
+    height: 200vmax;
+}
+section{
+    height: 400px;
+}
